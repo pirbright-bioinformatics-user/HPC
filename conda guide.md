@@ -1,4 +1,4 @@
-#Installing Conda and Disabling the Default Channel
+# Installing Conda and Disabling the Default Channel
 
 ## Purpose
 This document outlines the steps to install conda and configuring it to exclude the default Anaconda channel, which requires a commercial license in enterprise settings.
